@@ -54,3 +54,83 @@ The calculator applies **progressive taxation**, meaning only the income within 
 ---
 
 ## 🖥 Example Output
+SRI LANKAN TAX CALCULATOR (April 2025 Tax Reforms)
+
+Annual Income: Rs. 4,000,000
+Income Tax: Rs. 330,000 (8.25%)
+Take-Home (Annual): Rs. 3,670,000
+Take-Home (Monthly): Rs. 305,833
+
+TOP TAXPAYERS (Ranked by Tax Paid)
+
+Rs. 5,000,000 - Tax Paid: Rs. 690,000
+
+Rs. 4,000,000 - Tax Paid: Rs. 330,000
+
+Rs. 3,500,000 - Tax Paid: Rs. 210,000
+
+
+---
+
+## ⚙️ Tech Stack
+
+### Language
+- 🐍 Python 3
+
+### Concepts
+- Functional Programming  
+- Algorithm Design  
+- Data Processing  
+- Command Line Applications
+
+---
+
+## 📂 Project Structure
+tax-calculator/
+│
+├── tax_calculator.py
+└── README.md
+
+
+### Main functions
+
+- `calculate_income_tax()` → progressive tax calculation  
+- `calculate_effective_tax_rate()` → tax percentage  
+- `calculate_take_home()` → after-tax income  
+- `main()` → runs tax reports and analysis
+
+---
+
+## 🚀 Possible Improvements
+
+Future enhancements could include:
+
+- Interactive user input  
+- Web-based tax calculator  
+- Export reports to **CSV / PDF**  
+- Visual **tax charts**  
+- Support for **multiple tax systems**
+
+---
+
+## 📚 Learning Goals
+
+This project helps developers practice:
+
+- Writing **clean Python functions**  
+- Implementing **real-world financial algorithms**  
+- Using **functional programming tools**  
+- Structuring **CLI-based applications**
+
+---
+
+## ⭐ Contributing
+
+Contributions, suggestions, and improvements are always welcome!  
+Feel free to **fork the repository and submit a pull request**.
+
+---
+
+## 📄 License
+
+This project is **open-source** and intended for **educational and learning purposes**.
